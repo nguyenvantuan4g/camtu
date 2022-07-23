@@ -1,2 +1,0 @@
-# camtu
-Camtu
